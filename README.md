@@ -1,3 +1,10 @@
+## Summit - Next-14 - 2024.1
+
+Treinamento realizado para capacitação de novos assessores na tecnologia NextJS. Foi utilizado a mais recente atualização do Framework, além de React Server Components.
+Para o back-end foi utilizado o ORM Prisma e o Banco de Dados Railway, feito pelo servidor Next.
+
+## CodeVoa
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
