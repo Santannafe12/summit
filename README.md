@@ -46,3 +46,5 @@ O **Blog de Viagens** é um projeto fullstack desenvolvido com **Next.js 14**, *
 - Projeto desenvolvido para treinamento da CodeJR.
 - Ideal para aprender Next.js 14, React Server Components e integração com Prisma.
 - Configure a `DATABASE_URL` do Railway para uso real.
+
+## CODEVOA
